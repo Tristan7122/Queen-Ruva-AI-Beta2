@@ -34,11 +34,11 @@ global.iconictechMenu = "v1";
 global.autoRecording = false;      // Auto voice message recording
 global.autoTyping = true;          // Show typing indicators
 global.autorecordtype = false;     // Auto recording type detection
-global.autoread = true;            // Auto read messages
-global.autobio = true;             // Auto biography updates
+global.autoread = false;            // Auto read messages
+global.autobio = false;             // Auto biography updates
 global.private = true;             // Enable in private chats
 global.group = true;               // Enable in group chats  
-global.welcome = true;             // Welcome messages for new members
+global.welcome = false;             // Welcome messages for new members
 global.anticall = true;            // Global anti-call protection
 global.audioblock = true;          // Audio message blocking
 global.stickerBlock = true;        // Sticker blocking
@@ -61,19 +61,19 @@ global.ignoreGroups = false;       // Ignore group messages
  * Bot creator and social links
  */
 global.codewave = 'codewave-unit.zone.id';
-global.ownername = "ICONICS-TECH";
-global.ownernumber = '263786115435';
+global.ownername = "Tuesday";
+global.ownernumber = '27634624586';
 
 /**
  * Bot branding and information
  */
-global.ytname = "📺 YouTube: https://www.youtube.com/@iconic-tech";
-global.socialm = "💻 GitHub: https://github.com/iconic05";
-global.location = "📍 Zimbabwe, Bulawayo";
+global.ytname = "📺 YouTube: https://www.youtube.com/@tristany71";
+global.socialm = "💻 GitHub: https://github.com/tristan7122";
+global.location = "📍 South Africa, Pretoria";
 global.botname = "👑 ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ ʙᴇᴛᴀ";
 global.packname = "👑 ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ";
-global.author = "⚡ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴄᴏɴɪᴄ";
-global.iconic_channel = "📱 https://chat.whatsapp.com/LyFPHDvc5vMCglUFjv7Rlp";
+global.author = "⚡ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Tuesday";
+global.iconic_channel = "📱 https://whatsapp.com/channel/0029VbBTHMoFi8xbR318gB2u";
 
 // =============== MESSAGE CONFIGURATION ===============
 /**
